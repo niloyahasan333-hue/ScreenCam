@@ -2,7 +2,7 @@
 A simple android app that captures video of the phone's screen (ie. screencast app) and records the external audio.
 
 ## Download
-Download app from [here](https://github.com/DevipriyaSarkar/ScreenCam/releases).
+Download app from [here](https://github.com/DevipriyaSarkar/ScreenCam/releases)..
 
 ## How to use?
 1. [Download](https://github.com/DevipriyaSarkar/ScreenCam/releases) the apk
